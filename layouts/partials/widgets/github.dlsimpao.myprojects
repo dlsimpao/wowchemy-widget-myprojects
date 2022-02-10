@@ -3,4 +3,3 @@
 
 <h2>{{$section.Title}}</h2>
 
-<p>{{$section.Content}}</p>
