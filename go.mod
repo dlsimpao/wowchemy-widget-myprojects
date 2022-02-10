@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-widget-myprojects
+module github.com/dlsimpao/wowchemy-widget-myprojects
 
 go 1.15
